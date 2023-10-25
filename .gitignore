@@ -1,0 +1,8 @@
+*.txt
+saved_libs/*
+saved_papers/*
+!saved_libs/.gitkeep
+!saved_papers/.gitkeep
+**/__pycache__/
+data/
+logs/
